@@ -37,14 +37,19 @@ pub fn txt_to_map(filepath: &str) -> Result<HashMap<String, HashMap<String, Para
     return Ok(map);
 }
 
+#[cfg(test)]
+mod tests {
+    #[test]
+    fn main_test() {
 
-fn main() {
-    let args: Vec<String> = std::env::args().collect();
-    let root = &args[1]; // args[0] is arg after "cargo"
-    println!("{}", root);
-    match txt_to_map(root) {
-        Ok(_) => println!("\nparsed text files at {:?}", std::time::SystemTime::now()),
-        Err(e) => println!("failed to parse txt files: {}", e),
+        let args: Vec<String> = std::env::args().collect();
+        let root = &args[1]; // args[0] is arg after "cargo"
+        println!("{}", root);
+        match crate::txt_to_map(root) {
+            Ok(_) => println!("\nparsed text files at {:?}", std::time::SystemTime::now()),
+            Err(e) => println!("failed to parse txt files: {}", e),
+        }
+
     }
-
 }
+
