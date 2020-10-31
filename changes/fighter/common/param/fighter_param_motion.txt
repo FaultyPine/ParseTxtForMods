@@ -1,0 +1,1242 @@
+mario = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+donkey = {
+escape_attack_frame = 27,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10,
+cliff_hang_check_length = 5
+}
+
+link = {
+escape_attack_frame = 27,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+samus = {
+escape_attack_frame = 27,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+yoshi = {
+escape_attack_frame = 27,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+kirby = {
+escape_attack_frame = 27,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+fox = {
+escape_attack_frame = 24,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10,
+cliff_hang_check_length = 5
+}
+
+pikachu = {
+escape_attack_frame = 25,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+luigi = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+ness = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_distance = 20,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+captain = {
+escape_attack_frame = 27,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+purin = {
+escape_attack_frame = 27,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10,
+cliff_hang_check_length = 5
+}
+
+peach = {
+escape_attack_frame = 27,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+koopa = {
+escape_attack_frame = 29,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10,
+cliff_hang_check_length = 5
+}
+
+popo = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+nana = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+sheik = {
+escape_attack_frame = 24,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+zelda = {
+escape_attack_frame = 27,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+mariod = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+pichu = {
+escape_attack_frame = 25,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+falco = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+marth = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+younglink = {
+escape_attack_frame = 25,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+ganon = {
+escape_attack_frame = 29,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10,
+cliff_hang_check_length = 5
+}
+
+mewtwo = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+roy = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+gamewatch = {
+escape_attack_frame = 27,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+metaknight = {
+escape_attack_frame = 25,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10,
+cliff_hang_check_length = 5
+}
+
+pit = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+szerosuit = {
+escape_attack_frame = 24,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+wario = {
+escape_attack_frame = 27,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10,
+cliff_hang_check_length = 5
+}
+
+snake = {
+escape_attack_frame = 27,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+ike = {
+escape_attack_frame = 27,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+pzenigame = {
+escape_attack_frame = 25,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+pfushigisou = {
+escape_attack_frame = 27,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+plizardon = {
+escape_attack_frame = 29,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10,
+cliff_hang_check_length = 5
+}
+
+diddy = {
+escape_attack_frame = 25,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10,
+cliff_hang_check_length = 5
+}
+
+lucas = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_distance = 20,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+sonic = {
+escape_attack_frame = 25,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10,
+cliff_hang_check_length = 5
+}
+
+dedede = {
+escape_attack_frame = 29,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10,
+cliff_hang_check_length = 5
+}
+
+pikmin = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+lucario = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+robot = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+toonlink = {
+escape_attack_frame = 25,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+wolf = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10,
+cliff_hang_check_length = 5
+}
+
+murabito = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+rockman = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+wiifit = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+rosetta = {
+escape_attack_frame = 27,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+littlemac = {
+escape_attack_frame = 24,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_distance = 20,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+gekkouga = {
+escape_attack_frame = 25,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10,
+cliff_hang_check_length = 5
+}
+
+palutena = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+pacman = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10,
+cliff_hang_check_length = 5
+}
+
+reflet = {
+escape_attack_frame = 27,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+shulk = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+koopajr = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+duckhunt = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+ryu = {
+escape_attack_frame = 27,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+cloud = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+kamui = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+bayonetta = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_distance = 20,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+inkling = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+ridley = {
+escape_attack_frame = 29,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10,
+cliff_hang_check_length = 5
+}
+
+simon = {
+escape_attack_frame = 27,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+krool = {
+escape_attack_frame = 29,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10,
+cliff_hang_check_length = 5
+}
+
+shizue = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+gaogaen = {
+escape_attack_frame = 27,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10,
+cliff_hang_check_length = 5
+}
+
+packun = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10,
+cliff_hang_check_length = 5
+}
+
+jack = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+brave = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+buddy = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10,
+cliff_hang_check_length = 5
+}
+
+dolly = {
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+master = {
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+tantan = {
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10,
+cliff_hang_check_length = 5
+}
+
+miifighter = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+miiswordsman = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+miigunner = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+samusd = {
+escape_attack_frame = 27,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+daisy = {
+escape_attack_frame = 27,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+lucina = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+chrom = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+pitb = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+ken = {
+escape_attack_frame = 27,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+richter = {
+escape_attack_frame = 27,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+koopag = {
+escape_attack_frame = 29,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+miienemyf = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+miienemys = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}
+
+miienemyg = {
+escape_attack_frame = 26,
+escape_air_slide_hit_xlu_frame = 999,
+escape_air_slide_hit_normal_frame = 2,
+escape_air_slide_penalty_hit_xlu_frame = 999,
+escape_air_slide_penalty_hit_normal_frame = 2,
+escape_air_slide_back_distance = 1,
+escape_air_slide_back_end_frame = 0,
+escape_air_slide_penalty_speed = 4.2,
+escape_air_slide_penalty_distance = 20,
+escape_air_slide_cancel_frame = 10,
+landing_frame_escape_air_slide_max = 10
+}

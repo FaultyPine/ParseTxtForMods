@@ -1,0 +1,538 @@
+random = {
+}
+
+mario = {
+disp_order = 1
+
+}
+
+donkey = {
+disp_order = 72
+
+}
+
+link = {
+disp_order = 12
+
+}
+
+samus = {
+disp_order = 18
+
+}
+
+samusd = {
+disp_order = 20
+
+}
+
+yoshi = {
+disp_order = 10
+
+}
+
+kirby = {
+disp_order = 24
+
+}
+
+fox = {
+disp_order = 11
+
+}
+
+pikachu = {
+disp_order = 36
+
+}
+
+luigi = {
+disp_order = 2
+
+}
+
+ness = {
+disp_order = 46
+
+}
+
+captain = {
+disp_order = 22
+
+}
+
+purin = {
+disp_order = 38
+
+}
+
+peach = {
+disp_order = 3
+
+}
+
+daisy = {
+disp_order = 4
+
+}
+
+koopa = {
+disp_order = 5
+
+}
+
+ice = {
+disp_order = 52
+
+}
+
+sheik = {
+disp_order = 14
+
+}
+
+zelda = {
+disp_order = 13
+
+}
+
+mariod = {
+disp_order = 0
+
+}
+
+pichu = {
+disp_order = 37
+
+}
+
+falco = {
+disp_order = 23
+
+}
+
+marth = {
+disp_order = 27
+
+}
+
+lucina = {
+disp_order = 30
+
+}
+
+younglink = {
+disp_order = 16
+
+}
+
+ganon = {
+disp_order = 15
+
+}
+
+mewtwo = {
+disp_order = 39
+
+}
+
+roy = {
+disp_order = 28
+
+}
+
+chrom = {
+disp_order = 27
+
+}
+
+gamewatch = {
+disp_order = 51
+
+}
+
+metaknight = {
+disp_order = 25
+
+}
+
+pit = {
+disp_order = 48
+
+}
+
+pitb = {
+disp_order = 49
+
+}
+
+szerosuit = {
+disp_order = 19
+
+}
+
+wario = {
+disp_order = 9
+
+}
+
+snake = {
+disp_order = 60
+
+}
+
+ike = {
+disp_order = 29
+
+}
+
+ptrainer = {
+disp_order = -1
+
+}
+
+pzenigame = {
+fighter_kind = fighter_kind_zenigame,
+disp_order = 37,
+can_select = True
+
+}
+
+pfushigisou = {
+fighter_kind = fighter_kind_fushigisou,
+disp_order = 37,
+can_select = True
+
+}
+
+plizardon = {
+fighter_kind = fighter_kind_lizardon,
+disp_order = 37,
+can_select = True
+
+}
+
+diddy = {
+disp_order = 73
+
+}
+
+lucas = {
+disp_order = 47
+
+}
+
+sonic = {
+disp_order = 69
+
+}
+
+dedede = {
+disp_order = 26
+
+}
+
+pikmin = {
+disp_order = 59
+
+}
+
+lucario = {
+
+}
+
+robot = {
+disp_order = 53
+
+}
+
+toonlink = {
+disp_order = 17
+
+}
+
+wolf = {
+disp_order = 35
+
+}
+
+murabito = {
+disp_order = 57
+
+}
+
+rockman = {
+disp_order = 63
+
+}
+
+wiifit = {
+disp_order = 55
+
+}
+
+rosetta = {
+disp_order = 8
+
+}
+
+littlemac = {
+disp_order = 77
+
+}
+
+gekkouga = {
+disp_order = 44
+
+}
+
+palutena = {
+disp_order = 49
+
+}
+
+pacman = {
+disp_order = 76
+
+}
+
+reflet = {
+disp_order = 32
+
+}
+
+shulk = {
+disp_order = 34
+
+}
+
+koopajr = {
+disp_order = 6
+
+}
+
+duckhunt = {
+disp_order = 54
+
+}
+
+ryu = {
+disp_order = 64
+
+}
+
+ken = {
+disp_order = 65
+
+}
+
+cloud = {
+disp_order = 67
+
+}
+
+kamui = {
+disp_order = 33
+
+}
+
+bayonetta = {
+disp_order = 70
+
+}
+
+richter = {
+disp_order = 62
+
+}
+
+inkling = {
+disp_order = 56
+
+}
+
+ridley = {
+disp_order = 21
+
+}
+
+krool = {
+disp_order = 74
+
+}
+
+simon = {
+disp_order = 61
+
+}
+
+shizue = {
+disp_order = 58
+
+}
+
+gaogaen = {
+disp_order = 45
+
+}
+
+miiall = {
+
+}
+
+miifighter = {
+
+}
+
+miiswordsman = {
+disp_order = 80
+
+}
+
+miigunner = {
+disp_order = 79
+
+}
+
+general = {
+
+}
+
+general = {
+
+}
+
+masterhand = {
+
+}
+
+crazyhand = {
+
+}
+
+mastercrazy = {
+
+}
+
+galleom = {
+
+}
+
+lioleus = {
+
+}
+
+marx = {
+
+}
+
+marx2 = {
+
+}
+
+dracula = {
+
+}
+
+dracula2 = {
+
+}
+
+ganonboss = {
+
+}
+
+kiila = {
+
+}
+
+darz = {
+
+}
+
+koopag = {
+ui_series_id = ui_series_smashbros,
+exhibit_year = 2001,
+save_no = 15,
+color_num = 8,
+characall_label_c00 = vc_narration_characall_koopa
+
+}
+
+kiila = {
+
+}
+
+koopa = {
+
+}
+
+ganon = {
+
+}
+
+mewtwo = {
+
+}
+
+sandbag = {
+
+}
+
+miienemyf = {
+
+}
+
+miienemys = {
+
+}
+
+miienemyg = {
+
+}
+
+narrator = {
+name_id = pzenigame
+
+}
+
+0x1c2d9aa545 = {
+
+}
+
+smashbros = {
+
+}
+
+packun = {
+disp_order = 7
+
+}
+
+jack = {
+disp_order = 71
+
+}
+
+brave = {
+disp_order = 68
+
+}
+
+buddy = {
+disp_order = 75
+
+}
+
+dolly = {
+disp_order = 66
+
+}
+
+master = {
+
+}
+
+tantan = {
+
+}
