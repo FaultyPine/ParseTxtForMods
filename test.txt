@@ -1,0 +1,14 @@
+Root: changes
+ParamLabels read successfully
+Current file: changes/fighter/common/param/common.txt
+
+Current file: changes/fighter/common/param/fighter_param.txt
+
+Current file: changes/fighter/common/param/fighter_param_motion.txt
+
+
+Files parsed successsfully!
+Time elapsed: 194.0725ms
+Saving param changes...
+
+Saved params successfully. Time elapsed: 800ns

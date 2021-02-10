@@ -133,8 +133,9 @@ checksum = "e2abad23fbc42b3700f2f279844dc832adb2b2eb069b2df918f455c4e18cc646"
 
 [[package]]
 name = "prc-rs"
-version = "1.2.0"
-source = "git+https://github.com/ultimate-research/prc-rs#1b13fdedb56f7f228f2dfeb5739339d3807349b0"
+version = "1.3.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "a3600a40d5a771fff97212092ea697dfae32e3e682ac4833252e73a6b264ea03"
 dependencies = [
  "byteorder",
  "hash40",
